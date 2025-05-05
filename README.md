@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PB
 ---
 
 ## Themes
-# To use a custom theme, change `theme = "Default` to:
+### To use a custom theme, change `theme = "Default` to:
 
 - **Default**
 - **AmberGlow**
