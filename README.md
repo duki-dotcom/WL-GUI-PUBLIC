@@ -3,6 +3,28 @@
 
 ---
 
+```
+theme = "Default"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PBETA/refs/heads/main/dist/main.lua"))()
+```
+
+---
+
+## Themes
+# To use a custom theme, change `theme = "Default` to:
+
+- **Default**
+- **AmberGlow**
+- **Amethyst**
+- **Bloom**
+- **DarkBlue**
+- **Green**
+- **Light**
+- **Ocean**
+- **Serenity**
+
+---
+
 ## Features
 
 - **Autoblock**  
