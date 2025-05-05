@@ -1,2 +1,50 @@
-# WL-GUI-PBETA
-Duki's WL GUI, V3. Open Beta.
+# Duki's WL GUI v3  
+*for funsies*
+
+---
+
+## Features
+
+- **Autoblock**  
+- **Aimbot** 
+- **ESP**    
+- **Spell Control**
+- **Game Fixes**  
+- **Tag Changer**  
+- **Neutral Team Toggle**  
+- **Curse Player(s)**  
+- **Lasers & Fireworks**  
+- **Clickkill**  
+- **Opps Tab**   
+
+...and more on the way.
+
+---
+
+## Access
+
+```
+Reserved.  
+Access is currently limited to trusted users only.
+```
+
+---
+
+## Status
+
+```
+Mostly complete. Currently Version: 3.00 BETA  
+Actively maintained with regular new features and fixes.
+```
+
+---
+
+## Notes
+
+- @DukiDokii on discord for`key`(s).
+- Optimized for security and safety.
+- Many performance features.
+
+---
+
+*wuh guh yuh*
