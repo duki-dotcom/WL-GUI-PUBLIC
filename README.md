@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PB
 - **Ocean**
 - **Serenity**
 
-eg. `theme = "Bloom`
+### eg. `theme = "Bloom`
 ---
 
 ## Features
