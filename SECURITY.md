@@ -1,27 +1,76 @@
-# Security Policy: End of Support for Versions Below 2.8
+# Security Policy
 
-## Overview
+**Project**: [Duki's WL-GUI](https://github.com/duki-dotcom/WL-GUI-PBETA)  
+**Maintainer**: DukiDokii  
+**Effective Date**: May 6, 2025
 
-As of 05/05/2025, any versions of this software prior to **Version 2.8** will no longer be supported. This includes bug fixes, security updates, and any other form of maintenance. Users are strongly encouraged to upgrade to **Version 2.8** or newer to continue receiving security updates and support.
+---
 
-## Affected Versions
+## Supported Versions
 
-- **Version 2.7** and all earlier versions are **no longer supported**.
-- **Version 2.8** and newer versions are actively supported.
+Only the most recent public release of this project will receive security updates or support.
 
-## Security and Maintenance
+| Version          | Security Updates | General Support |
+|------------------|------------------|------------------|
+| v3.0.0-beta      | Yes              | Yes              |
+| v2.8.*           | No               | No               |
+| Below v2.8       | No               | No               |
 
-- No further security patches, bug fixes, or updates will be provided for versions below **2.8**.
-- Users of unsupported versions are at risk of security vulnerabilities and compatibility issues.
-- It is recommended to upgrade to **Version 2.8** or the latest release to maintain the integrity and security of your system.
+> **Note**: Any version below `v3.0.0-beta` is considered outdated and insecure. If you are using an older version, please upgrade immediately to ensure the best protection and functionality.
 
-## Upgrade Instructions
+---
 
-To upgrade to the latest version, please follow the instructions provided in the discord linked in the description.
+## Support Channels
 
-## Contact for Support
+If you encounter a security-related issue, please consider the following options:
 
-If you have any questions or need help with upgrading, please contact us at @DukiDokii.
+- **Discord Server**: The primary support channel is the official Discord linked in the repository description. Please use the appropriate support or bug-report channel. Avoid discussing sensitive security concerns publicly.
+- **GitHub Issues**: For publicly visible, non-critical issues only. Do not use GitHub Issues to report exploits or vulnerabilities that could be abused before being patched.
+- **Private Reporting**: For serious vulnerabilities or exploits, reach out via direct message on Discord.
 
-Thank you for your understanding and cooperation.
+---
 
+## Reporting Guidelines
+
+When reporting a security issue, please include the following:
+
+- A clear description of the issue and potential impact
+- Steps to reproduce the vulnerability, if applicable
+- The version of the GUI affected
+- Screenshots or code snippets (if safe to share)
+
+You will receive confirmation within a reasonable timeframe. If the issue is valid and affects a supported version, a fix will be scheduled for release in the next update cycle.
+
+---
+
+## End of Support Notice
+
+As of **May 6, 2025**, all versions below `v2.8` are permanently deprecated. These versions:
+
+- Will not receive bug or security fixes
+- Are not eligible for support through Discord or GitHub
+- May contain known vulnerabilities or outdated architecture
+
+You are strongly advised to stop using any versions older than `v3.0.0-beta`.
+
+---
+
+## Security Best Practices
+
+To help protect your experience:
+
+- **Do not use third-party versions** of this GUI or modified forks from unknown sources.
+- **Never share your keys or authentication tokens** with others, and avoid key-leaking platforms.
+- **Keep your script loader (e.g., Xeno) up to date** to prevent compatibility issues.
+- **Run only the latest version** of the GUI to ensure access to all fixes and security measures.
+
+---
+
+## Disclaimer
+
+This GUI is provided "as is" with no warranties. The author assumes no responsibility for damage, loss, or bans incurred by misuse or abuse of the Software. By using this GUI, you accept the terms outlined in the [License Agreement](LICENSE.md).
+
+---
+
+**© 2025 DukiDokii. All Rights Reserved.**  
+All support and update policies are subject to change.
