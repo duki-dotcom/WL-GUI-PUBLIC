@@ -17,7 +17,7 @@ As of 05/05/2025, any versions of this software prior to **Version 2.8** will no
 
 ## Upgrade Instructions
 
-To upgrade to the latest version, please follow the instructions provided in the [documentation](URL to documentation or upgrade instructions).
+To upgrade to the latest version, please follow the instructions provided in the discord linked in the description.
 
 ## Contact for Support
 
