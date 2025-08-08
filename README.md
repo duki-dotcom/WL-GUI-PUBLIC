@@ -1,25 +1,28 @@
-# ⚠️ Duki's WL GUI v3 — **DEPRECATED**
+# ⚠️ Duki's WL GUI v3 — **Limited Maintenance**
 
 ![Version](https://img.shields.io/badge/version-3.00--BETA-blue)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
-![Status](https://img.shields.io/badge/status-Deprecated-red)
+![Status](https://img.shields.io/badge/status-Limited%20Maintenance-orange)
 
 ---
 
 ## ❗ Important Notice
 
-**This GUI is no longer supported and is now deprecated.**  
-As of mid-2025, the game **Wizard Life (WL)** is broken due to Roblox’s mandatory chat system update, which removed support for legacy chat. Since **Wizard Life is no longer being updated**, this GUI no longer functions as intended.
+**This GUI is no longer receiving regular feature updates.**  
+As of mid-2025, **Wizard Life (WL)** remains playable, but development for this GUI has shifted to a **limited maintenance mode**.  
+
+This means:
+- ✅ Critical **game-breaking** or **high-priority issues** will be fixed.  
+- ❌ No regular feature additions or minor tweaks.  
+- ⚠️ Functionality may change if Roblox or Wizard Life updates affect core features.
 
 > 🛑 **This GUI was made *only* for Wizard Life.**  
 > 🚫 **It will not work in any other game.**  
-> 🔐 **Even if you try, you can’t use it without a valid access key.**
-
-This repository is now archived for reference only. No further updates or support will be provided.
+> 🔐 **You still need a valid access key to use it.**
 
 ---
 
-## ⚰️ Legacy README (Original, for historical reference)
+## 📜 Original README (For Reference)
 
 <details>
 <summary>Click to expand</summary>
@@ -29,16 +32,13 @@ This repository is now archived for reference only. No further updates or suppor
 ### Duki's WL GUI v3  
 
 ![Version](https://img.shields.io/badge/version-3.00--BETA-blue)  
-![License](https://img.shields.io/badge/license-Custom-lightgrey)  
-![Status](https://img.shields.io/badge/status-Active-green)
+![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
 ---
-
 ```
 theme = "Default"  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PBETA/refs/heads/main/dist/main.lua"))()
 ```
-
 ---
 
 ### Themes
