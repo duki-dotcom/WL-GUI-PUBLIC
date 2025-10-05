@@ -15,9 +15,9 @@ The **WL GUI is officially back in active development!**
 
 We’re focused on:  
 - 🆕 Adding **new quality-of-life features**  
-- 🎨 Expanding **theme customization**  
+- 🎨 Expanding **features and customisation**  
 - ⚙️ Improving **performance, stability, and security**  
-- 🔄 Keeping up with **Wizard Life updates** for full compatibility  
+- 🔄 Keeping up with **Roblox updates** for full compatibility  
 
 > 🟢 **Regular updates and bug fixes are back.**
 
