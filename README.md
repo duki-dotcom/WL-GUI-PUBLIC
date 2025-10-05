@@ -1,49 +1,40 @@
-# ⚠️ Duki's WL GUI v3 — **Limited Maintenance**
+# 🚀 Duki's WL GUI v3 — **Back in Active Development!**
 
-![Version](https://img.shields.io/badge/version-3.00--BETA-blue)  
+![Version](https://img.shields.io/badge/version-3.10--BETA-brightgreen)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
-![Status](https://img.shields.io/badge/status-Limited%20Maintenance-orange)
+![Status](https://img.shields.io/badge/status-Active%20Development-success)  
+![Build](https://img.shields.io/badge/build-Stable-blueviolet)  
+![Support](https://img.shields.io/badge/support-Discord-blue)  
+![Game](https://img.shields.io/badge/game-Wizard%20Life-ff69b4)  
 
 ---
 
-## ❗ Important Notice
+## ✨ Revival Update
 
-**This GUI is no longer receiving regular feature updates.**  
-As of mid-2025, **Wizard Life (WL)** remains playable, but development for this GUI has shifted to a **limited maintenance mode**.  
+The **WL GUI is officially back in active development!**
 
-This means:
-- ✅ Critical **game-breaking** or **high-priority issues** will be fixed.  
-- ❌ No regular feature additions or minor tweaks.  
-- ⚠️ Functionality may change if Roblox or Wizard Life updates affect core features.
+We’re focused on:  
+- 🆕 Adding **new quality-of-life features**  
+- 🎨 Expanding **theme customization**  
+- ⚙️ Improving **performance, stability, and security**  
+- 🔄 Keeping up with **Wizard Life updates** for full compatibility  
 
-> 🛑 **This GUI was made *only* for Wizard Life.**  
-> 🚫 **It will not work in any other game.**  
-> 🔐 **You still need a valid access key to use it.**
+> 🟢 **Regular updates and bug fixes are back.**
 
 ---
 
-## 📜 Original README (For Reference)
+## 📥 Installation
 
-<details>
-<summary>Click to expand</summary>
-
-<br>
-
-### Duki's WL GUI v3  
-
-![Version](https://img.shields.io/badge/version-3.00--BETA-blue)  
-![License](https://img.shields.io/badge/license-Custom-lightgrey)
-
----
+Use this snippet to load the GUI:
 ```
 theme = "Default"  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PBETA/refs/heads/main/dist/main.lua"))()
 ```
 ---
 
-### Themes
+## 🎨 Themes
 
-To use a custom theme, change `theme = "Default"` to one of the following:
+You can customize the GUI theme by changing `theme = "Default"` to any of the following:
 
 - **Default**  
 - **AmberGlow**  
@@ -56,12 +47,16 @@ To use a custom theme, change `theme = "Default"` to one of the following:
 - **Serenity**
 
 Example:  
-theme = "Bloom"
+
+`theme = "Bloom"`
+
+> ✍️ *More themes coming soon!*
 
 ---
 
-### Features
+## 🪄 Features
 
+✅ Currently Available:  
 - **Autoblock**  
 - **Aimbot**  
 - **ESP**  
@@ -73,38 +68,39 @@ theme = "Bloom"
 - **Lasers & Fireworks**  
 - **Clickkill**  
 - **Opps Tab**
-
-...and more on the way.
-
----
-
-### Access
-
-Access is currently restricted to trusted users only.  
-Keys are issued manually. To request access, join the [Discord server](https://discord.gg/uuzhZR5s37) or contact `@DukiDokii`.
+- **KillAura**
+- **Chat Commands**
 
 ---
 
-### Status
+## 🔑 Access
 
-Mostly complete  
-Currently Version: 3.00 BETA  
-Actively maintained with regular new features and fixes
+Access is still **key-gated** for security.
 
----
-
-### Notes
-
-- Optimized for security and performance  
-- Built with protection and efficiency in mind  
-- Many features are designed for low detection risk and seamless gameplay  
-- Do **not** share or leak your key — it will get revoked
+➡️ To request access:  
+- Join the [Discord server](https://discord.gg/uuzhZR5s37)  
+- Or contact **`@DukiDokii`**
 
 ---
 
-### Documentation
+## ⚙️ Status
+
+- 🟢 **Active Development**  
+- 🔄 Regular updates & patches  
+- ⚡ Optimized for stability & low latency  
+- 🔐 Secure key-based access system  
+
+---
+
+## 📝 Notes
+
+- Designed for **Wizard Life** only — it will not work in other games  
+- Optimized for **low detection risk**  
+- Do **not share or leak your key** — it will be revoked  
+
+---
+
+## 📚 Documentation
 
 - [LICENSE](./LICENSE.md)  
 - [SECURITY POLICY](./SECURITY.md)
-
-</details>
