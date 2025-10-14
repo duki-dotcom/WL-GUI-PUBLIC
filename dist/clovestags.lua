@@ -19,7 +19,7 @@ local userSettings = {
     nyxcielle = {
         EnableTags = true,
         TagValue = "TOP O",
-        TagColor = Color3.fromRGB(127, 193, 185)
+        TagColor = Color3.fromRGB(169, 227, 223)
     },
     kleenbeans = {
         EnableTags = true,
@@ -104,14 +104,14 @@ end
 for _, player in ipairs(game.Players:GetPlayers()) do
     task.defer(applyCustomizations, player)
     player.CharacterAdded:Connect(function()
-        task.wait(1)
+        task.wait(10)
         applyCustomizations(player)
     end)
 end
 
 game.Players.PlayerAdded:Connect(function(player)
     player.CharacterAdded:Connect(function()
-        task.wait(1)
+        task.wait(10)
         applyCustomizations(player)
     end)
 end)
