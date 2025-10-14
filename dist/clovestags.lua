@@ -130,3 +130,42 @@ game.Players.PlayerAdded:Connect(function(player)
         applyCustomizations(player)
     end)
 end)
+
+
+local TextChatService = game:GetService("TextChatService")
+
+local boldFont = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+local black = Color3.fromRGB(0, 0, 0)
+
+local function applyProps(target, props)
+    for key, value in pairs(props) do
+        target[key] = value
+    end
+end
+
+local window = TextChatService:FindFirstChild("ChatWindowConfiguration")
+if window then
+    applyProps(window, {
+        BackgroundColor3 = Color3.fromRGB(25, 27, 29),
+        BackgroundTransparency = 0.5,
+        FontFace = boldFont,
+        TextColor3 = Color3.fromRGB(255, 255, 255),
+        TextSize = 18,
+        TextStrokeColor3 = black,
+        TextStrokeTransparency = 0.5,
+    })
+end
+
+local inputBar = TextChatService:FindFirstChild("ChatInputBarConfiguration")
+if inputBar then
+    applyProps(inputBar, {
+        BackgroundColor3 = Color3.fromRGB(181, 181, 181),
+        BackgroundTransparency = 0.5,
+        FontFace = boldFont,
+        PlaceholderColor3 = Color3.fromRGB(52, 52, 52),
+        TextColor3 = Color3.fromRGB(52, 52, 52),
+        TextSize = 18,
+        TextStrokeColor3 = black,
+        TextStrokeTransparency = 1,
+    })
+end
