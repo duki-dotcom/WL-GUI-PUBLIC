@@ -30,6 +30,21 @@ local userSettings = {
         EnableTags = true,
         TagValue = "TOP I",
         TagColor = Color3.fromRGB(230, 230, 230)
+    },
+    qalvez = {
+        EnableTags = true,
+        TagValue = "TOP I",
+        TagColor = Color3.fromRGB(230, 230, 230)
+    },
+    fawoz = {
+        EnableTags = true,
+        TagValue = "TOP I",
+        TagColor = Color3.fromRGB(230, 230, 230)
+    },
+    ix_pandina = {
+        EnableTags = true,
+        TagValue = "TOP II",
+        TagColor = Color3.fromRGB(136, 8, 8)
     }
 }
 
