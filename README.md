@@ -1,4 +1,4 @@
-# 🚀 Duki's WL GUI v3 — **Back in Active Development!**
+# 🚀 Duki's WL GUI v3.10 — **Now Out of Beta!**
 
 ![Version](https://img.shields.io/badge/version-3.10-brightgreen)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
@@ -9,32 +9,44 @@
 
 ---
 
-## ✨ Revival Update
+## ✨ v3.10 Release Overview
 
-The **WL GUI is officially back in active development!**
+The **WL GUI v3** is officially out of beta and continues in **active development!**
 
-We’re focused on:  
-- 🆕 Adding **new quality-of-life features**  
-- 🎨 Expanding **features and customisation**  
-- ⚙️ Improving **performance, stability, and security**  
-- 🔄 Keeping up with **Roblox updates** for full compatibility  
+This release focuses on **speed, stability, and usability**, with several new features and major improvements to core systems.
 
-> 🟢 **Regular updates and bug fixes are back.**
+---
+
+## 🆕 What’s New in v3.10
+
+- ⚡ **Improved Load Times** — Faster GUI initialization and setup  
+- 🚀 **Reduced Lag** — Optimized for smoother gameplay and lower latency  
+- 🏷️ **Custom Player Tags** — Personalize your identity in-game  
+- 💬 **Legacy Chat Remake** — A nostalgic classic rebuilt with modern UI support  
+- 🖼️ **Chat Backgrounds** — Enhanced readability and visual clarity  
+- 🧾 **Advanced JoinLogger** — Detailed player join tracking and Discord integration  
+- 🔗 **Improved Discord Webhooks** — Cleaner, faster, and more reliable webhook handling  
+- 🔑 **Enhanced Keysystem** — Improved stability and validation for secure access  
+- ⚔️ **KillAura Added** — Fully functional with live chat commands and custom range control  
 
 ---
 
 ## 📥 Installation
 
 Use this snippet to load the GUI:
+
 ```
 theme = "Default"  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PBETA/refs/heads/main/dist/main.lua"))()
 ```
+
+You can change the theme name as shown below.
+
 ---
 
 ## 🎨 Themes
 
-You can customize the GUI theme by changing `theme = "Default"` to any of the following:
+Customize your GUI appearance with multiple color presets:
 
 - **Default**  
 - **AmberGlow**  
@@ -50,13 +62,13 @@ Example:
 
 `theme = "Bloom"`
 
-> ✍️ *More themes coming soon!*
+> ✍️ More themes will be added in future updates.
 
 ---
 
-## 🪄 Features
+## 🪄 Core Features
 
-✅ Currently Available:  
+✅ **Currently Available:**  
 - **Autoblock**  
 - **Aimbot**  
 - **ESP**  
@@ -67,40 +79,55 @@ Example:
 - **Curse Player(s)**  
 - **Lasers & Fireworks**  
 - **Clickkill**  
-- **Opps Tab**
-- **KillAura**
+- **Opps Tab**  
+- **KillAura**  
 - **Chat Commands**
 
 ---
 
 ## 🔑 Access
 
-Access is still **key-gated** for security.
+Access remains **key-gated** for stability and security.
 
-➡️ To request access:  
-- Join the [Discord server](https://discord.gg/aywReXD59Z)  
-- Or contact **`@DukiDokii`**
+➡️ Request Access:  
+- Join the [Discord Server](https://discord.gg/aywReXD59Z)  
+- Or contact **`@DukiDokii`** directly  
+
+Keys are unique, private, and must **not** be shared.  
+Violations will result in immediate revocation.
 
 ---
 
-## ⚙️ Status
+## ⚙️ Project Status
 
 - 🟢 **Active Development**  
-- 🔄 Regular updates & patches  
-- ⚡ Optimized for stability & low latency  
-- 🔐 Secure key-based access system  
+- 🔄 **Frequent updates & patches**  
+- ⚡ **Optimized for performance**  
+- 🔐 **Secured via key system**
 
 ---
 
 ## 📝 Notes
 
-- Designed for **Wizard Life** only — it will not work in other games  
-- Optimized for **low detection risk**  
-- Do **not share or leak your key** — it will be revoked  
+- Built **exclusively for Wizard Life**  
+- Will **not** function outside the intended game  
+- Designed for **low detection risk**  
+- Do **not share, leak, or redistribute** keys or code  
 
 ---
 
-## 📚 Documentation
+## 📚 Documentation & Links
 
 - [LICENSE](./LICENSE.md)  
-- [SECURITY POLICY](./SECURITY.md)
+- [SECURITY POLICY](./SECURITY.md)  
+- [Discord Support](https://discord.gg/aywReXD59Z)  
+- [Full v3.10 Release Notes](https://github.com/duki-dotcom/WL-GUI-PBETA/releases)
+
+---
+
+### 💬 Final Note
+
+WL GUI v3.10 marks the **first full stable release** since revival — faster, smarter, and better than ever.  
+Thank you for supporting development and keeping the community strong!
+
+**— DukiDokii**
