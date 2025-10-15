@@ -78,7 +78,7 @@ Example:
 Access is still **key-gated** for security.
 
 ➡️ To request access:  
-- Join the [Discord server](https://discord.gg/uuzhZR5s37)  
+- Join the [Discord server]([https://discord.gg/aywReXD59Z])  
 - Or contact **`@DukiDokii`**
 
 ---
