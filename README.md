@@ -1,6 +1,6 @@
 # 🚀 Duki's WL GUI v3 — **Back in Active Development!**
 
-![Version](https://img.shields.io/badge/version-3.10--BETA-brightgreen)  
+![Version](https://img.shields.io/badge/version-3.10-brightgreen)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
 ![Status](https://img.shields.io/badge/status-Active%20Development-success)  
 ![Build](https://img.shields.io/badge/build-Stable-blueviolet)  
