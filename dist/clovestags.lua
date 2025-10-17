@@ -174,25 +174,26 @@ end
 game.Lighting.Ambient = Color3.fromRGB(60, 63, 69)
 game.Lighting.OutdoorAmbient = Color3.fromRGB(143, 143, 143)
 game.Lighting.Brightness = 0
-game.Lighting.EnvironmentDiffuseScale = .5
-game.Lighting.EnvironmentSpecularScale = .3
+game.Lighting.EnvironmentDiffuseScale = 0.5
+game.Lighting.EnvironmentSpecularScale = 0.3
 game.Lighting.ShadowSoftness = 0
-game.Lighting.FogColor.Color3.fromRGB(231, 238, 255)
+game.Lighting.FogColor = Color3.fromRGB(231, 238, 255)  -- fixed
 
 game.Lighting.Sky.CelestialBodiesShown = true
 
 local CC = game.Lighting.ColorCorrection
-CC.Brightness = .03
-CC.Contrast = .1
-CC.Saturation = .1
+CC.Brightness = 0.03
+CC.Contrast = 0.1
+CC.Saturation = 0.1
 CC.TintColor = Color3.fromRGB(255, 244, 241)
 
 local BLOOM = game.Lighting.Bloom
-BLOOM.Intensity = .2
+BLOOM.Intensity = 0.2
 BLOOM.Size = 30
-BLOOM.Threshold = .7
+BLOOM.Threshold = 0.7
 
 Instance.new("SunRaysEffect", game.Lighting).Enabled = true
 local RAYS = game.Lighting.SunRays
-RAYS.Intensity = .5
+RAYS.Intensity = 0.5
 RAYS.Spread = 10
+
