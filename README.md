@@ -6,6 +6,7 @@
 ![Build](https://img.shields.io/badge/build-Stable-blueviolet)  
 ![Support](https://img.shields.io/badge/support-Discord-blue)  
 ![Game](https://img.shields.io/badge/game-Wizard%20Life-ff69b4)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51MZFGO)
 
 ---
 
