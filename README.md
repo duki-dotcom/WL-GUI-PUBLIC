@@ -1,6 +1,6 @@
-# 🚀 Duki's WL GUI v3.10 — **Now Out of Beta!**
+# 🚀 Duki's WL GUI v3.5 — **Massive Revamp Update!**
 
-![Version](https://img.shields.io/badge/version-3.10-brightgreen)  
+![Version](https://img.shields.io/badge/version-3.5-brightgreen)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
 ![Status](https://img.shields.io/badge/status-Active%20Development-success)  
 ![Build](https://img.shields.io/badge/build-Stable-blueviolet)  
@@ -10,31 +10,37 @@
 
 ---
 
-## ✨ v3.10 Release Overview
+## ✨ v3.5 Release Overview
 
-The **WL GUI v3** is officially out of beta and continues in **active development!**
-
-This release focuses on **speed, stability, and usability**, with several new features and major improvements to core systems.
+The **WL GUI v3.5** update is a complete **revamp** — the entire GUI has been rewritten for cleaner visuals, improved usability, and enhanced performance.  
+This version fixes long-standing bugs, adds new functionality, and refines nearly every system.
 
 ---
 
-## 🆕 What’s New in v3.10
+## 🆕 What’s New in v3.5
 
-- ⚡ **Improved Load Times** — Faster GUI initialization and setup  
-- 🚀 **Reduced Lag** — Optimized for smoother gameplay and lower latency  
-- 🏷️ **Custom Player Tags** — Personalize your identity in-game  
-- 💬 **Legacy Chat Remake** — A nostalgic classic rebuilt with modern UI support  
-- 🖼️ **Chat Backgrounds** — Enhanced readability and visual clarity  
-- 🧾 **Advanced JoinLogger** — Detailed player join tracking and Discord integration  
-- 🔗 **Improved Discord Webhooks** — Cleaner, faster, and more reliable webhook handling  
-- 🔑 **Enhanced Keysystem** — Improved stability and validation for secure access  
-- ⚔️ **KillAura Added** — Fully functional with live chat commands and custom range control  
+- ✅ **Fixed Whitelist** — stability and validation improvements  
+- 🧾 **Fixed Logging** — more accurate and consistent logs  
+- 🪪 **Fixed Join Logs** — players are now properly tracked on join  
+- 💬 **Added Chat Readability Toggle** — easily adjust chat clarity to your preference  
+- 🏷️ **Fixed Integration of Tags** — improved consistency with player tags  
+- ✨ **Added Shaders** — new visual enhancements for a smoother and brighter experience  
+- 🧙 **Fixed Spell Changer** — reliable switching and casting between spells  
+- 📜 **Updated Spell List** — refreshed and reorganized spell selections  
+- 🕹️ **Added Flight Button/Toggle** — intuitive new flight control system  
+- ⚙️ **Fixed Multiple Runtime Errors** — improved stability and error handling  
+- ⚰️ **Fixed HRP Being Stuck to Death Location** — issue fully resolved  
+- 🎯 **Fixed Priority Targets** — target selection is now more accurate  
+- 🧩 **Added IY Custom Remake** — custom Infinite Yield-inspired integration  
+- 🛠️ **Revamped PatFix** — cleaner and more efficient handling  
+- 🪄 **Revamped Entire GUI Layout** — completely redesigned for clarity and performance  
+- 🔥 **Fixed Opps Tab** — restored full functionality and responsiveness  
+- ♻️ **Resolved Multiple Redundancy Issues** — streamlined backend systems  
+- 💼 **Fixed Galleon Bag TP** — teleport now functions correctly and reliably  
 
 ---
 
 ## 📥 Installation
-
-Use this snippet to load the GUI:
 
 ```
 theme = "Default"  
@@ -60,7 +66,6 @@ Customize your GUI appearance with multiple color presets:
 - **Serenity**
 
 Example:  
-
 `theme = "Bloom"`
 
 > ✍️ More themes will be added in future updates.
@@ -122,13 +127,13 @@ Violations will result in immediate revocation.
 - [LICENSE](./LICENSE.md)  
 - [SECURITY POLICY](./SECURITY.md)  
 - [Discord Support](https://discord.gg/aywReXD59Z)  
-- [Full v3.10 Release Notes](https://github.com/duki-dotcom/WL-GUI-PBETA/releases)
+- [Full v3.5 Release Notes](https://github.com/duki-dotcom/WL-GUI-PBETA/releases)
 
 ---
 
 ### 💬 Final Note
 
-WL GUI v3.10 marks the **first full stable release** since revival — faster, smarter, and better than ever.  
+WL GUI v3.5 marks the **largest update yet**, featuring a fully rewritten interface, improved performance, and dozens of bug fixes.  
 Thank you for supporting development and keeping the community strong!
 
 **— DukiDokii**
