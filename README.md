@@ -1,139 +1,139 @@
-# 🚀 Duki's WL GUI v3.5 — **Massive Revamp Update!**
+# 🚀 Duki's WL GUI v3.6.0 — **Pre-Release Build**
 
-![Version](https://img.shields.io/badge/version-3.5-brightgreen)  
+![Version](https://img.shields.io/badge/version-3.6.0--pre--release-blueviolet)  
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)  
 ![Status](https://img.shields.io/badge/status-Active%20Development-success)  
-![Build](https://img.shields.io/badge/build-Stable-blueviolet)  
+![Build](https://img.shields.io/badge/build-Pre--Release-orange)  
 ![Support](https://img.shields.io/badge/support-Discord-blue)  
 ![Game](https://img.shields.io/badge/game-Wizard%20Life-ff69b4)  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51MZFGO)
 
 ---
 
-## ✨ v3.5 Release Overview
+## ✨ v3.6.0 — Pre-Release Overview
 
-The **WL GUI v3.5** update is a complete **revamp** — the entire GUI has been rewritten for cleaner visuals, improved usability, and enhanced performance.  
-This version fixes long-standing bugs, adds new functionality, and refines nearly every system.
+The **v3.6.0 pre-release** introduces critical fixes and internal optimizations following the v3.5 revamp.  
+This version focuses on **polish, reliability, and smoother execution** across all core systems.
+
+> 🧪 **Note:** This is an early pre-release build. Expect minor changes before the final stable release.
 
 ---
 
-## 🆕 What’s New in v3.5
+## 🧾 Changelog — v3.6.0 Pre-Release
 
-- ✅ **Fixed Whitelist** — stability and validation improvements  
-- 🧾 **Fixed Logging** — more accurate and consistent logs  
-- 🪪 **Fixed Join Logs** — players are now properly tracked on join  
-- 💬 **Added Chat Readability Toggle** — easily adjust chat clarity to your preference  
-- 🏷️ **Fixed Integration of Tags** — improved consistency with player tags  
-- ✨ **Added Shaders** — new visual enhancements for a smoother and brighter experience  
-- 🧙 **Fixed Spell Changer** — reliable switching and casting between spells  
-- 📜 **Updated Spell List** — refreshed and reorganized spell selections  
-- 🕹️ **Added Flight Button/Toggle** — intuitive new flight control system  
-- ⚙️ **Fixed Multiple Runtime Errors** — improved stability and error handling  
-- ⚰️ **Fixed HRP Being Stuck to Death Location** — issue fully resolved  
-- 🎯 **Fixed Priority Targets** — target selection is now more accurate  
-- 🧩 **Added IY Custom Remake** — custom Infinite Yield-inspired integration  
-- 🛠️ **Revamped PatFix** — cleaner and more efficient handling  
-- 🪄 **Revamped Entire GUI Layout** — completely redesigned for clarity and performance  
-- 🔥 **Fixed Opps Tab** — restored full functionality and responsiveness  
-- ♻️ **Resolved Multiple Redundancy Issues** — streamlined backend systems  
-- 💼 **Fixed Galleon Bag TP** — teleport now functions correctly and reliably  
+- 🖱️ Fixed **ClickTP** — prevents clipping through the floor  
+- 🪄 Improved **Curse Targeting** — now properly iterates through multiple targets in list order  
+- ⚔️ Fixed **!k (player)** — now works globally as intended  
+- 🔥 Fixed **!laser (player)** — reverted from Eddie Laser to the original Divine Laser system  
+- 🏷️ Fixed **In-Game Tags** — tag application is now consistent across players  
 
 ---
 
 ## 📥 Installation
+
+Set your theme and load the GUI using:
 
 ```
 theme = "Default"  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/duki-dotcom/WL-GUI-PBETA/refs/heads/main/dist/main.lua"))()
 ```
 
-You can change the theme name as shown below.
+You may change the `theme` value to apply a different visual preset before execution.
 
 ---
 
 ## 🎨 Themes
 
-Customize your GUI appearance with multiple color presets:
+Customize your GUI style with built-in presets:
 
-- **Default**  
-- **AmberGlow**  
-- **Amethyst**  
-- **Bloom**  
-- **DarkBlue**  
-- **Green**  
-- **Light**  
-- **Ocean**  
-- **Serenity**
+- Default  
+- AmberGlow  
+- Amethyst  
+- Bloom  
+- DarkBlue  
+- Green  
+- Light  
+- Ocean  
+- Serenity  
 
 Example:  
 `theme = "Bloom"`
 
-> ✍️ More themes will be added in future updates.
+> ✍️ More themes will be added in upcoming updates.
 
 ---
 
 ## 🪄 Core Features
 
-✅ **Currently Available:**  
-- **Autoblock**  
-- **Aimbot**  
-- **ESP**  
-- **Spell Control**  
-- **Game Fixes**  
-- **Tag Changer**  
-- **Neutral Team Toggle**  
-- **Curse Player(s)**  
-- **Lasers & Fireworks**  
-- **Clickkill**  
-- **Opps Tab**  
-- **KillAura**  
-- **Chat Commands**
+✅ **Available Features:**  
+- Autoblock  
+- Aimbot  
+- ESP System  
+- Spell Control  
+- Game Fixes  
+- Tag Changer  
+- Neutral Team Toggle  
+- Curse Player(s)  
+- Lasers & Fireworks  
+- ClickKill  
+- Opps Tab  
+- KillAura  
+- Chat Commands  
+- Join/Leave Logger  
+- Custom Infinite Yield Integration  
 
 ---
 
 ## 🔑 Access
 
-Access remains **key-gated** for stability and security.
+Access to WL GUI remains **key-protected** for stability and user security.
 
-➡️ Request Access:  
-- Join the [Discord Server](https://discord.gg/aywReXD59Z)  
-- Or contact **`@DukiDokii`** directly  
+➡️ **Request Access:**  
+- Join the [Official Discord Server](https://discord.gg/aywReXD59Z)  
+- Contact **@DukiDokii** directly  
 
-Keys are unique, private, and must **not** be shared.  
-Violations will result in immediate revocation.
+Keys are **unique** and **non-transferable**.  
+Leaking or redistributing keys will result in permanent revocation.
 
 ---
 
 ## ⚙️ Project Status
 
-- 🟢 **Active Development**  
-- 🔄 **Frequent updates & patches**  
-- ⚡ **Optimized for performance**  
-- 🔐 **Secured via key system**
+- 🟢 Active Development  
+- 🔄 Frequent Fixes & Refinements  
+- ⚡ Optimized Performance  
+- 🔐 Secured via Key System  
 
 ---
 
-## 📝 Notes
+## 🧩 Compatibility
 
-- Built **exclusively for Wizard Life**  
-- Will **not** function outside the intended game  
-- Designed for **low detection risk**  
-- Do **not share, leak, or redistribute** keys or code  
+- Designed **exclusively for Wizard Life**  
+- Will **not function** in other games  
+- Optimized for **low detection risk**  
+- **Executor Compatibility:** Synapse X, Fluxus, Script-Ware, and similar Lua-supported environments  
 
 ---
 
 ## 📚 Documentation & Links
 
 - [LICENSE](./LICENSE.md)  
+- [TERMS OF USE](./TERMS_OF_USE.md)  
+- [PRIVACY POLICY](./PRIVACY_POLICY.md)  
 - [SECURITY POLICY](./SECURITY.md)  
 - [Discord Support](https://discord.gg/aywReXD59Z)  
-- [Full v3.5 Release Notes](https://github.com/duki-dotcom/WL-GUI-PBETA/releases)
+- [Release Notes](https://github.com/duki-dotcom/WL-GUI-PBETA/releases)
 
 ---
 
-### 💬 Final Note
+## 💬 Developer Note
 
-WL GUI v3.5 marks the **largest update yet**, featuring a fully rewritten interface, improved performance, and dozens of bug fixes.  
-Thank you for supporting development and keeping the community strong!
+v3.6.0 is a **transitional pre-release** focused on stability and script integrity.  
+Major feature additions and UI expansions will arrive in the **v3.7 stable** build.
+
+Thank you for supporting Duki’s GUI and helping keep the project secure and evolving.  
+Your feedback drives development — join the Discord and help shape what comes next.
 
 **— DukiDokii**
+
+---
