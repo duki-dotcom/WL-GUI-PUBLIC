@@ -1,76 +1,97 @@
 # Security Policy
 
-**Project**: [Duki's WL-GUI](https://github.com/duki-dotcom/WL-GUI-PBETA)  
-**Maintainer**: DukiDokii  
-**Effective Date**: May 6, 2025
+**Project:** [Duki's WL-GUI](https://github.com/duki-dotcom/WL-GUI-PBETA)  
+**Maintainer:** [@DukiDokii](https://github.com/DukiDokii)  
+**Effective Date:** October 22, 2025
 
 ---
 
 ## Supported Versions
 
-Only the most recent public release of this project will receive security updates or support.
+Only the **latest stable release (v3.5.0 or newer)** receives active security updates and official support.
 
-| Version          | Security Updates | General Support |
-|------------------|------------------|------------------|
-| v3.0.0-beta      | Yes              | Yes              |
-| v2.8.*           | No               | No               |
-| Below v2.8       | No               | No               |
+| Version Range     | Security Updates | General Support |
+|--------------------|------------------|------------------|
+| v3.5.0+ (current)  | ✅ Yes            | ✅ Yes            |
+| v3.0.0 – v3.4.*    | ⚠️ Partial (limited) | ❌ No           |
+| Below v3.0.0       | ❌ No             | ❌ No             |
 
-> **Note**: Any version below `v3.0.0-beta` is considered outdated and insecure. If you are using an older version, please upgrade immediately to ensure the best protection and functionality.
-
----
-
-## Support Channels
-
-If you encounter a security-related issue, please consider the following options:
-
-- **Discord Server**: The primary support channel is the official Discord linked in the repository description. Please use the appropriate support or bug-report channel. Avoid discussing sensitive security concerns publicly.
-- **GitHub Issues**: For publicly visible, non-critical issues only. Do not use GitHub Issues to report exploits or vulnerabilities that could be abused before being patched.
-- **Private Reporting**: For serious vulnerabilities or exploits, reach out via direct message on Discord.
+> **Notice:**  
+> Versions older than **v3.5.0** are considered **unsupported and insecure**.  
+> Please update to the latest release to maintain compatibility and protection.
 
 ---
 
-## Reporting Guidelines
+## Reporting a Vulnerability
 
-When reporting a security issue, please include the following:
+If you believe you have found a **security issue, vulnerability, or exploit**, please follow the private reporting process below.  
+Do **not** post details publicly where they could be misused before a patch is deployed.
 
-- A clear description of the issue and potential impact
-- Steps to reproduce the vulnerability, if applicable
-- The version of the GUI affected
-- Screenshots or code snippets (if safe to share)
-
-You will receive confirmation within a reasonable timeframe. If the issue is valid and affects a supported version, a fix will be scheduled for release in the next update cycle.
+### 📨 Report Privately Via:
+- **Discord (Preferred):**  
+  Join [discord.gg/aywReXD59Z](https://discord.gg/aywReXD59Z) and open a private ticket by typing `!ticket` in the support channel.
+- **GitHub Issues:**  
+  Use only for **non-critical** or **already patched** issues.  
+  Please avoid posting sensitive exploit details publicly.
+- **Direct Contact:**  
+  You may message **@DukiDokii** directly on Discord for severe, active security concerns.
 
 ---
 
-## End of Support Notice
+## What to Include in Your Report
 
-As of **May 6, 2025**, all versions below `v2.8` are permanently deprecated. These versions:
+To help speed up resolution, include the following (where applicable):
 
-- Will not receive bug or security fixes
-- Are not eligible for support through Discord or GitHub
-- May contain known vulnerabilities or outdated architecture
+- A concise **description** of the issue or exploit  
+- **Steps to reproduce** the vulnerability  
+- **Version** of the GUI affected (e.g., `v3.6`)  
+- Screenshots, code snippets, or logs (only if safe to share)  
+- Any potential **impact or severity** assessment
 
-You are strongly advised to stop using any versions older than `v3.0.0-beta`.
+You will receive a confirmation within a reasonable timeframe, and valid issues will be prioritized for patching in the next update cycle.
+
+---
+
+## End of Support Policy
+
+As of **October 2025**, all versions **below v3.5.0** are permanently deprecated.  
+These versions:
+
+- Will **not** receive bug or security fixes  
+- Are **ineligible** for technical support via Discord or GitHub  
+- May contain **known vulnerabilities** or outdated architecture
+
+To ensure safety and functionality, upgrade immediately to **v3.5.0 or later**.
 
 ---
 
 ## Security Best Practices
 
-To help protect your experience:
+To protect your environment and data:
 
-- **Do not use third-party versions** of this GUI or modified forks from unknown sources.
-- **Never share your keys or authentication tokens** with others, and avoid key-leaking platforms.
-- **Keep your script loader (e.g., Xeno) up to date** to prevent compatibility issues.
-- **Run only the latest version** of the GUI to ensure access to all fixes and security measures.
+- ✅ **Use only official releases** from this GitHub repository.  
+- 🚫 **Avoid third-party, cracked, or modified forks** — they may contain malware or logging systems.  
+- 🔑 **Never share your key or whitelist credentials** publicly.  
+- ⚙️ **Keep your executor or loader updated** to ensure compatibility.  
+- 🧩 **Always run the latest GUI version** to receive security improvements and stability patches.
+
+---
+
+## Disclosure Policy
+
+All verified vulnerabilities are acknowledged privately.  
+Fixes are released in a timely manner, and if applicable, contributors may be credited in release notes unless anonymity is requested.
 
 ---
 
 ## Disclaimer
 
-This GUI is provided "as is" with no warranties. The author assumes no responsibility for damage, loss, or bans incurred by misuse or abuse of the Software. By using this GUI, you accept the terms outlined in the [License Agreement](LICENSE.md).
+**Duki’s GUI** is provided *“as is”* with no warranties or guarantees.  
+The author assumes no responsibility for data loss, game bans, or damage resulting from misuse, third-party modifications, or unauthorized redistributions.
+
+Use of this Software implies acceptance of the [License Agreement](LICENSE.md) and [Terms of Use](TERMS_OF_USE.md).
 
 ---
 
 **© 2025 DukiDokii. All Rights Reserved.**  
-All support and update policies are subject to change.
+All security and support policies are subject to change without prior notice.
