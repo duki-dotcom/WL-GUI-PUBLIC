@@ -1,64 +1,89 @@
-# Duki's GUI - License Agreement
+# Duki's GUI – License Agreement
 
-**Effective Date**: May 6, 2025  
-**Author**: DukiDokii  
-**Repository**: [https://github.com/duki-dotcom/WL-GUI-PBETA](https://github.com/duki-dotcom/WL-GUI-PBETA)
+**Effective Date:** May 6, 2025  
+**Author:** [@DukiDokii](https://github.com/DukiDokii)  
+**Repository:** [https://github.com/duki-dotcom/WL-GUI-PBETA](https://github.com/duki-dotcom/WL-GUI-PBETA)
 
 ---
 
 ## 1. Grant of License
 
-This license permits the end user ("Licensee") to download and use the script known as "Duki's GUI" (the "Software") solely for personal, non-commercial purposes. This grant is revocable, non-transferable, and non-exclusive.
+This License grants the end user (“Licensee”) a **revocable**, **non-exclusive**, and **non-transferable** right to download, execute, and use **Duki’s GUI** (the “Software”) solely for **personal and non-commercial** purposes.
 
-### Permitted Uses:
-- Execution of the Software for private, individual use.
-- Usage strictly within the Roblox platform for personal enhancement.
+### Permitted Uses
+
+- Running the Software for **private**, **individual** use.  
+- Using the Software **within the Roblox platform** for personal gameplay enhancement.  
+
+No ownership of the Software or its underlying code is transferred through this License.
 
 ---
 
 ## 2. Restrictions and Prohibited Uses
 
-The following actions are strictly prohibited and constitute a breach of this License:
+You agree **not to** perform or attempt any of the following actions:
 
 ### 2.1 Redistribution
-- You may **not** redistribute, republish, or share the Software or any portion thereof in any form, including but not limited to public or private repositories, file-sharing services, or executable loaders.
+- Redistribute, republish, upload, or share the Software (or any portion thereof) through any medium, including:
+  - Public or private GitHub repositories  
+  - File-sharing services, scripts hubs, or executors  
+  - Loaders, key systems, or any other distribution mechanisms
 
-### 2.2 Key System and Bypassing
-- You are **strictly forbidden** from:
-  - Sharing, distributing, or leaking any keys used to access or unlock the Software.
-  - Attempting to bypass or disable the Software’s key authentication system by any means.
+### 2.2 Key System and Access Control
+- Share, distribute, or leak access keys used to unlock or execute the Software.  
+- Attempt to **bypass**, **disable**, or **circumvent** any key system, whitelist, or authentication checks implemented in the Software.
 
 ### 2.3 Modification and Reverse Engineering
-- You may **not** alter, decompile, disassemble, reverse engineer, or otherwise modify the Software or any part of its codebase for any purpose.
-- Creating derivative works based on the Software is prohibited.
+- Modify, decompile, disassemble, reverse-engineer, or otherwise alter the Software in any way.  
+- Create derivative or modified versions of the Software.
 
-### 2.4 Commercial Exploitation
-- You are **prohibited** from selling, licensing, renting, or otherwise using the Software for any commercial purpose.
+### 2.4 Commercial Use
+- Use the Software for **commercial**, **promotional**, or **monetized** purposes, including selling access, advertising resale, or using the Software in paid services.
 
 ---
 
 ## 3. Enforcement and Consequences
 
-Violation of this License may result in:
+Violation of this License Agreement may result in:
 
-- Immediate termination of your access and license rights.
-- Permanent blacklisting from any future updates, versions, or projects by the author.
-- Reporting to platform moderators or relevant parties.
-- Legal action under applicable intellectual property and software protection laws.
+- Immediate **termination of access** and license rights  
+- Permanent **blacklisting** from future updates or versions  
+- **Reporting** to Roblox or relevant platform moderators  
+- Potential **legal action** under applicable intellectual property or software protection laws
+
+The author reserves the right to take enforcement action without prior notice.
 
 ---
 
 ## 4. Ownership and Intellectual Property
 
-The Software and all associated intellectual property rights remain the sole property of DukiDokii. No rights or ownership are transferred to the Licensee under this License.
+All rights, title, and interest in and to **Duki’s GUI**, including its source code, artwork, and branding, are the exclusive property of **DukiDokii**.
+
+This License does **not** transfer ownership, source rights, or intellectual property of any kind to the Licensee.
 
 ---
 
-## 5. Disclaimer
+## 5. Disclaimer of Warranties
 
-The Software is provided "as is," without warranty of any kind. The author shall not be held liable for any damages arising from the use or misuse of the Software.
+The Software is provided **“as is”** without warranties of any kind, either express or implied, including but not limited to implied warranties of:
+
+- Merchantability  
+- Fitness for a particular purpose  
+- Non-infringement
+
+Use of the Software is entirely **at your own risk**. The author is not liable for any damages, bans, losses, or disruptions resulting from its use or misuse.
+
+---
+
+## 6. Related Documents
+
+- [Privacy Policy](./PRIVACY_POLICY.md)  
+- [Terms of Use](./TERMS_OF_USE.md)
+- [Security](./SECURITY.md)
+
+These documents collectively govern usage, data handling, and behavioral expectations under this License.
 
 ---
 
 **© 2025 DukiDokii. All Rights Reserved.**  
-Unauthorized use or breach of this agreement will be pursued to the fullest extent of the law.
+Unauthorized distribution, modification, or use of this Software will be pursued to the fullest extent permitted by law.
