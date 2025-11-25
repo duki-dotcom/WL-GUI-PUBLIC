@@ -4,7 +4,6 @@
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Access](https://img.shields.io/badge/access-Private-red)
 ![Game](https://img.shields.io/badge/game-Wizard%20Life-ff69b4)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51MZFGO)
 
 ---
 
@@ -114,3 +113,8 @@ https://discord.gg/aywReXD59Z
 The project remains under active development, with ongoing maintenance and refinements.  
 Major updates and changelogs will be published through GitHub Releases.
 
+## Support the Project
+
+Duki's WL GUI has always been free software for those with access. Support Duki's WL GUI here:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51MZFGO)
