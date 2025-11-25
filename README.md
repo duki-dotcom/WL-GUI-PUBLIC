@@ -1,6 +1,6 @@
-# Duki's WL GUI — Private Utility Framework for Wizard Life
+# Duki's WL GUI — Private Wizard Life GUI
 
-![Version](https://img.shields.io/badge/version-3.7-stable-blueviolet)
+![Version](https://img.shields.io/badge/version-3.7%20Stable-blueviolet)
 ![Status](https://img.shields.io/badge/status-Active-success)
 ![Access](https://img.shields.io/badge/access-Private-red)
 ![Game](https://img.shields.io/badge/game-Wizard%20Life-ff69b4)
