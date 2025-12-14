@@ -139,6 +139,7 @@ do
     startDM.Position = UDim2.new(0, 5, 0, 40)
     startDM.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
     startDM.TextColor3 = Color3.fromRGB(255, 255, 255)
+    startDM.Text = ""
     startDM.PlaceholderText = "username or userId"
     startDM.Font = Enum.Font.Gotham
     startDM.TextSize = 14
@@ -171,6 +172,7 @@ do
     input.Position = UDim2.new(0, 160, 1, -35)
     input.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
     input.TextColor3 = Color3.fromRGB(255, 255, 255)
+    input.Text = ""
     input.PlaceholderText = "Type message and press Enter..."
     input.Font = Enum.Font.Gotham
     input.TextSize = 14
@@ -217,6 +219,7 @@ do
             lbl.AutomaticSize = Enum.AutomaticSize.Y
             lbl.BackgroundTransparency = 1
             lbl.TextWrapped = true
+            lbl.Text = ""
             lbl.TextXAlignment = Enum.TextXAlignment.Left
             lbl.TextYAlignment = Enum.TextYAlignment.Top
             lbl.Font = Enum.Font.Gotham
